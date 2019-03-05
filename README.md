@@ -1,1 +1,1 @@
-https://Asmode2017.github.io/rsschool-2019Q1-cv/cv
+https://github.com/Asmodei2017.github.io/rsschool-2019Q1-cv/cv
