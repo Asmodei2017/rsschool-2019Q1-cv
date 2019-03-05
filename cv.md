@@ -15,11 +15,16 @@ Minsk, Belarus
 
 ### Objective&Summary ###
 ---
+
+
 ####Objective:####
 
 Start a career as a junior Web developer in the company and grow to team lead.
+
  
 ####Summary:####
+
+
 Several years studying the technology of web development using Javascript/HTML/CSS/Python. I am engaged in self-education and raising the level of knowledge. Have experience programming in C / C++, PHP, SQL and experience in the graphics package *Photoshop*. Good memory and analytical skills. I'm a good team player.
 
 
@@ -54,7 +59,11 @@ The main experience of development based on online courses and resources to impr
 
 ### Education ###
 ---
+
+
 ####Profile education:####
+
+
  **Institute of Management and Entrepreneurship**
 
  - **Specialty:** *Economics and enterprise management*;
@@ -65,6 +74,8 @@ The main experience of development based on online courses and resources to impr
 All the knowledge gained by studying books on programming. Constantly practice on online services such as Stepic, EdX, Openedu.
 
 #####Сertificate:#####
+
+
   - [JavaScript](https://stepik.org/cert/84404);
   - [Git](https://stepik.org/cert/92146);
   - [Python](https://stepik.org/cert/101618);
@@ -72,12 +83,17 @@ All the knowledge gained by studying books on programming. Constantly practice o
 
 ###Additional information###
 ---
+
+
 ####Language Skills:####
+
+
 
 **Pre-Intermediate**
 
 
 For practice use mobile apps such as *Lingualeo*, *Duolingo*, *EnglishLinduo*, *Simpler*. All specifications study on the original resources. I constantly watch updates on topics of interest to me and view them in English.
+
 
 
 
