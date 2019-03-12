@@ -1,0 +1,49 @@
+    margin: 0px;
+}
+
+
+.menu {
+    margin: 0;
+    list-style: none;
+    overflow: auto;
+    vertical-align: center;
+
+}
+
+.menu-item {
+    display: inline-block;
+    height: 40px;
+    margin: 5px 5px;
+    border: 1px solid red;
+    width: 140px;
+}
+
+.menu-item li::before{
+    content: '\00a0\2022\00a0\00a0';
+	color:#999;
+	color:rgba(0,0,0,0.5);
+    font-size:11px;
+    margin-left: 0px;
+}
+
+.menu-item li:first-child:before {
+	content: '';
+}
+
+.navigation li.active a,nav li  a:hover{	
+    text-decoration:none;        
+    color: #2EB398;    
+}
+   
+.navigation li  a {        
+    color: #fff;        
+    display: block;        
+    text-align: center;        
+    text-decoration: none;                
+    text-transform: uppercase;        
+    font-size: 12px;        
+}
+
+.info {
+    display: block;
+}
