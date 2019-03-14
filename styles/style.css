@@ -1,5 +1,16 @@
+@font-face {
+    font-family: 'Asulbek Matura';
+    src: url("../resources/fonts/asylbek.ttf");
+}
+
+@font-face {
+    font-family: 'Brush Flair Cyr';
+    src: url("../resources/fonts/brush.otf"); 
+}
+
+
 body {
-    font-family: 'open_sansregular';
+    font-family: 'Times New Roman', Times, serif;
     background:#ffffff;        
     font-size: 100%;
     max-width: 1024px; 
@@ -71,6 +82,11 @@ body {
      background-color: antiquewhite;
      border-bottom: 5px solid gray;
  }
+
+ .info h2 {
+     font-family: 'Asulbek Matura';
+     font-size: 40px;
+ }
  
  .image {
      
@@ -132,6 +148,11 @@ body {
      height: auto;
      border-bottom: 5px solid gray;
      padding: 20px 40px;
+ }
+
+ .blok h3 {
+     font-family: 'Brush Flair Cyr';
+     font-size: 25px;
  }
  
  .no_border {
